@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/bin/Debug/net6.0/ExceptionConstructors
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/bin/Debug/net6.0/ExceptionConstructors.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/bin/Debug/net6.0/ExceptionConstructors.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/bin/Debug/net6.0/ExceptionConstructors.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/bin/Debug/net6.0/ExceptionConstructors.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/refint/ExceptionConstructors.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ExceptionConstructors.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ExceptionConstructors/ExceptionConstructors/obj/Debug/net6.0/ref/ExceptionConstructors.dll

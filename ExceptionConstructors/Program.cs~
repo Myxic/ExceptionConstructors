@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enter string or Null to test for Exception");
+        Console.WriteLine("Enter string or empty to test for Exception");
         string? text = Console.ReadLine();
 
         if (string.IsNullOrEmpty(text))
@@ -12,9 +12,9 @@ class Program
         }
         else
         {
-            Console.WriteLine($"You entered: {text}, a Custom Exception.");
+            Console.WriteLine("You entered: {0}, a Custom Exception.", text);
         }
-        
+        Console.ReadLine();
     }
 
     public class CustomNullException : Exception
